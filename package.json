@@ -1,5 +1,5 @@
 {
-  "name": "react-big-calendar",
+  "name": "@skiller-whale/react-big-calendar",
   "version": "1.16.3",
   "description": "Calendar! with events",
   "author": {
@@ -130,5 +130,8 @@
   "bugs": {
     "url": "https://github.com/jquense/react-big-calendar/issues"
   },
-  "homepage": "https://github.com/jquense/react-big-calendar#readme"
+  "homepage": "https://github.com/jquense/react-big-calendar#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
